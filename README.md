@@ -6,4 +6,4 @@ This was created as a learning session inspired from Florin Pop's #100days100pro
 
 The password generator gives the user options to manipulate the length of the password and also the existence of, Lowercase letters, Uppercase letters, Numbers, Symbols and generates a random password based on these settings.
 
-![Initial Page](/Initial.png)
+![Initial Page](/Initial.PNG)
